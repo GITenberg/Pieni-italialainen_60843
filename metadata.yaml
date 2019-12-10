@@ -1,0 +1,26 @@
+_repo: Pieni-italialainen_60843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Spyri, Johanna Heusser
+    - Heusser, Johanna Louise
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_issued: '2019-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60843'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pieni italialainen
+url: http://www.gutenberg.org/ebooks/60843
